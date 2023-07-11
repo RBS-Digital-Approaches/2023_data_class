@@ -1,0 +1,380 @@
+,NAME,YEAR,FILE_NAME
+0,Ada Lovelace,1852,000.txt
+1,Robert E Lee,1870,001.txt
+2,Andrew Johnson,1875,002.txt
+3,Bedford Forrest,1877,003.txt
+4,Lucretia Mott,1880,004.txt
+5,Charles Darwin,1882,005.txt
+6,Ulysses Grant,1885,006.txt
+7,Mary Ewing Outerbridge,1886,007.txt
+8,Emma Lazarus,1887,008.txt
+9,Louisa M Alcott,1888,009.txt
+10,P T Barnum,1891,010.txt
+11,R L Stevenson,1894,011.txt
+12,Fred Douglass,1895,012.txt
+13,Harriet Beecher Stowe,1896,013.txt
+14,Stephen Crane,1900,014.txt
+15,Nietzsche,1900,015.txt
+16,William McKinley,1901,016.txt
+17,Queen Victoria,1901,017.txt
+18,Benjamin Harrison,1901,018.txt
+19,Elizabeth Cady Stanton,1902,019.txt
+20,James M N Whistler,1903,020.txt
+21,Emily Warren Roebling,1903,021.txt
+22,Susan B Anthony,1906,022.txt
+23,Qiu Jin,1907,023.txt
+24,Cleveland,1908,024.txt
+25,Sarah Orne Jewett,1909,025.txt
+26,Geronimo,1909,026.txt
+27,William James,1910,027.txt
+28,Florence Nightingale,1910,028.txt
+29,Tolstoy,1910,029.txt
+30,Joseph Pulitzer,1911,030.txt
+31,John P Holland,1914,031.txt
+32,Alfred Thayer Mahan,1914,032.txt
+33,John Muir,1914,033.txt
+34,F W Taylor,1915,034.txt
+35,B T Washington,1915,035.txt
+36,J J Hill,1916,036.txt
+37,Jack London,1916,037.txt
+38,Martian Theory,1916,038.txt
+39,Hilaire G E Degas,1917,039.txt
+40,C J Walker,1919,040.txt
+41,Carnegie Started,1919,041.txt
+42,Anna H Shaw,1919,042.txt
+43,Marlene Dietrich,1920,043.txt
+44,Nellie Bly,1922,044.txt
+45,Alexander Graham Bell,1922,045.txt
+46,Warren Harding,1923,046.txt
+47,Harry Houdini,1926,047.txt
+48,Victoria Martin,1927,048.txt
+49,Mabel Craty,1928,049.txt
+50,Marie Curie,1929,050.txt
+51,Balfour,1930,051.txt
+52,Elmer Sperry,1930,052.txt
+53,William Howard Taft,1930,053.txt
+54,Conan Doyle,1930,054.txt
+55,Ida B Wells,1931,055.txt
+56,Melvil Dewey,1931,056.txt
+57,Thomas Edison,1931,057.txt
+58,Knute Rocke,1931,058.txt
+59,John Philip Sousa,1932,059.txt
+60,Florenz Ziegfeld,1932,060.txt
+61,Calvin Coolidge,1933,061.txt
+62,Ring Lardner,1933,062.txt
+63,Louis C Tiffany,1933,063.txt
+64,T A Watson,1934,064.txt
+65,Justice Holmes,1935,065.txt
+66,Jane Addams,1935,066.txt
+67,Will Rogers,1935,067.txt
+68,Adolph S Ochs,1935,068.txt
+69,Anne Macy,1936,069.txt
+70,John W Heisman,1936,070.txt
+71,Maxim Gorky,1936,071.txt
+72,Maurice Ravel,1937,072.txt
+73,Edith Wharton,1937,073.txt
+74,John Rockefeller,1937,074.txt
+75,Clarence Darrow,1938,075.txt
+76,George E Hale,1938,076.txt
+77,Constantin Stanislavsky,1938,077.txt
+78,W B Yeats,1939,078.txt
+79,Pope Pius XI,1939,079.txt
+80,Howard Carter,1939,080.txt
+81,Scott Fitzgerald,1940,081.txt
+82,Marcus Garvey,1940,082.txt
+83,Frank Conrad,1941,083.txt
+84,Lou Gehrig,1941,084.txt
+85,James Joyce,1941,085.txt
+86,Virginia Woolf,1941,086.txt
+87,George M Cohan,1942,087.txt
+88,J H Kellogg,1943,088.txt
+89,George Washington Carver,1943,089.txt
+90,Alfred E Smith,1944,090.txt
+91,Ida M Tarbell,1944,091.txt
+92,Ernie Pyle,1945,092.txt
+93,Harry S Truman,1945,093.txt
+94,George Patton,1945,094.txt
+95,FDR,1945,095.txt
+96,Jerome Kern,1945,096.txt
+97,Adolf Hitler,1945,097.txt
+98,Bela Bartok,1945,098.txt
+99,Gertrude Stein,1946,099.txt
+100,Lord Keynes,1946,100.txt
+101,C E M Clung,1946,101.txt
+102,Willa Cather,1947,102.txt
+103,Al Capone,1947,103.txt
+104,Fiorello La Guardia,1947,104.txt
+105,Max Planck,1947,105.txt
+106,Henry Ford,1947,106.txt
+107,John Pershing,1948,107.txt
+108,Sergei Eisenstein,1948,108.txt
+109,Mohandas K Gandhi,1948,109.txt
+110,Babe Ruth,1948,110.txt
+111,Mitchell,1949,111.txt
+112,A J Dempster,1950,112.txt
+113,Edna St V Millay,1950,113.txt
+114,Henry L Stimson,1950,114.txt
+115,Fanny Brice,1951,115.txt
+116,Henrietta Lacks,1951,116.txt
+117,Eva Peron,1952,117.txt
+118,John Dewey,1952,118.txt
+119,Chaim Weizmann,1952,119.txt
+120,Charles Spaulding,1952,120.txt
+121,Fred Vinson,1953,121.txt
+122,Marjorie Rawlings,1953,122.txt
+123,Joseph Stalin,1953,123.txt
+124,Jim Thorpe,1953,124.txt
+125,Eugene O Neill,1953,125.txt
+126,Anne O Hare McCormick,1954,126.txt
+127,Frida Kahlo,1954,127.txt
+128,Getulio Vargas,1954,128.txt
+129,Enrico Fermi,1954,129.txt
+130,Henri Matisse,1954,130.txt
+131,Liberty H Bailey,1954,131.txt
+132,Lionel Barrymore,1954,132.txt
+133,Thomas Mann,1955,133.txt
+134,Albert Einstein,1955,134.txt
+135,Margaret Abbott,1955,135.txt
+136,Walter White,1955,136.txt
+137,Cy Young,1955,137.txt
+138,Dale Carnegie,1955,138.txt
+139,Babe Zaharias,1956,139.txt
+140,Charles Merrill,1956,140.txt
+141,Thomas J Watson Sr,1956,141.txt
+142,Gerard Swope,1957,142.txt
+143,Christian Dior,1957,143.txt
+144,W C Handy,1958,144.txt
+145,Billie Holiday,1959,145.txt
+146,Frank Lloyd Wright,1959,146.txt
+147,Ethel Barrymore,1959,147.txt
+148,Cecil De Mille,1959,148.txt
+149,Ross G Harrison,1959,149.txt
+150,John Dulles,1959,150.txt
+151,Boris Pasternak,1960,151.txt
+152,Beno Gutenberg,1960,152.txt
+153,Emily Post,1960,153.txt
+154,Richard Wright,1960,154.txt
+155,Hammarskjold,1961,155.txt
+156,Ernest Hemingway,1961,156.txt
+157,Primitive Artist,1961,157.txt
+158,Emily Balch,1961,158.txt
+159,Sam Rayburn,1961,159.txt
+160,Carl G Jung,1961,160.txt
+161,Marilyn Monroe,1962,161.txt
+162,Eleanor Roosevelt,1962,162.txt
+163,William Faulkner,1962,163.txt
+164,Sylvia Plath,1963,164.txt
+165,John F Kennedy,1963,165.txt
+166,Robert Frost,1963,166.txt
+167,W E B DuBois,1963,167.txt
+168,Herbert Hoover,1964,168.txt
+169,Douglas MacArthur,1964,169.txt
+170,Sean O Casey,1964,170.txt
+171,Rachel Carson,1964,171.txt
+172,Cole Porter,1964,172.txt
+173,Nella Larsen,1964,173.txt
+174,Adlai Ewing Stevenson,1965,174.txt
+175,David O Selznick,1965,175.txt
+176,Churchill,1965,176.txt
+177,Branch Rickey,1965,177.txt
+178,Martin Buber,1965,178.txt
+179,Edward R Murrow,1965,179.txt
+180,Albert Schweitzer,1965,180.txt
+181,Shirley Jackson,1965,181.txt
+182,Margaret Sanger,1966,182.txt
+183,Chester Nimitz,1966,183.txt
+184,Buster Keaton,1966,184.txt
+185,Lenny Bruce,1966,185.txt
+186,Walt Disney,1966,186.txt
+187,Alfred P Sloan Jr,1966,187.txt
+188,Gregory Pincus,1967,188.txt
+189,Henry R Luce,1967,189.txt
+190,Langston Hughes,1967,190.txt
+191,J Robert Oppenheimer,1967,191.txt
+192,Robert Francis Kennedy,1968,192.txt
+193,Helen Keller,1968,193.txt
+194,Upton Sinclair,1968,194.txt
+195,Martin Luther King Jr,1968,195.txt
+196,Yuri Gagarin,1968,196.txt
+197,Mies van der Rohe,1969,197.txt
+198,David Eisenhower,1969,198.txt
+199,Coleman Hawkins,1969,199.txt
+200,Madhubala,1969,200.txt
+201,Judy Garland,1969,201.txt
+202,Maureen Connolly,1969,202.txt
+203,Ho Chi Minh,1969,203.txt
+204,Sonja Henie,1969,204.txt
+205,Everett Dirksen,1969,205.txt
+206,Walter Reuther,1970,206.txt
+207,Edouard Daladier,1970,207.txt
+208,Erich Maria Remarque,1970,208.txt
+209,De Gaulle Rallied,1970,209.txt
+210,Coco Chanel,1971,210.txt
+211,Florence Blanchfield,1971,211.txt
+212,Khrushchev,1971,212.txt
+213,Diane Arbus,1971,213.txt
+214,Ralph Bunche,1971,214.txt
+215,Bobby Jones,1971,215.txt
+216,Louis Armstrong,1971,216.txt
+217,Dean Acheson,1971,217.txt
+218,Igor Stravinsky,1971,218.txt
+219,Hugo Black,1971,219.txt
+220,Mahalia Jackson,1972,220.txt
+221,Jackie Robinson,1972,221.txt
+222,The Duke of Windsor,1972,222.txt
+223,J Edgar Hoover,1972,223.txt
+224,Lyndon Johnson,1973,224.txt
+225,Otto Klemperer,1973,225.txt
+226,Eddie Rickenbacker,1973,226.txt
+227,Jeanette Rankin,1973,227.txt
+228,Pablo Picasso,1973,228.txt
+229,Roberto Clemente,1973,229.txt
+230,Nancy Mitford,1973,230.txt
+231,Earl Warren,1974,231.txt
+232,Sylvia Plath,1974,232.txt
+233,Ed Sullivan,1974,233.txt
+234,Katharine Cornell,1974,234.txt
+235,Charles Lindbergh,1974,235.txt
+236,Haile Selassie,1975,236.txt
+237,Elijah Muhammad,1975,237.txt
+238,Franco,1975,238.txt
+239,Walker Evans,1975,239.txt
+240,Chiang Kai shek,1975,240.txt
+241,J Paul Getty,1976,241.txt
+242,Mao Tse Tung,1976,242.txt
+243,Max Ernst,1976,243.txt
+244,Richard Daley,1976,244.txt
+245,Jacques Monod,1976,245.txt
+246,Adolph Zukor,1976,246.txt
+247,Charles Chaplin,1977,247.txt
+248,Joan Crawford,1977,248.txt
+249,Dash Ended,1977,249.txt
+250,Maria Callas,1977,250.txt
+251,Golda Meir,1978,251.txt
+252,Margaret Mead,1978,252.txt
+253,Pope Paul VI,1978,253.txt
+254,Bruce Catton,1978,254.txt
+255,Arthur Fiedler,1979,255.txt
+256,John Wayne,1979,256.txt
+257,A Philip Randolph,1979,257.txt
+258,Stan Kenton,1979,258.txt
+259,Richard Rodgers,1979,259.txt
+260,Jesse Owens,1980,260.txt
+261,Alfred Hitchcock,1980,261.txt
+262,Jean Piaget,1980,262.txt
+263,Jean Paul Sartre,1980,263.txt
+264,Joe Louis,1981,264.txt
+265,Robert Moses,1981,265.txt
+266,Anwar el Sadat,1981,266.txt
+267,Ingrid Bergman,1982,267.txt
+268,Anna Freud,1982,268.txt
+269,Leonid Brezhnev,1982,269.txt
+270,Arthur Rubinstein,1982,270.txt
+271,Thelonious Monk,1982,271.txt
+272,Lee Strasberg,1982,272.txt
+273,Satchel Paige,1982,273.txt
+274,Jack Dempsey,1983,274.txt
+275,Earl Hines,1983,275.txt
+276,Muddy Waters,1983,276.txt
+277,Truman Capote,1984,277.txt
+278,Lillian Hellman,1984,278.txt
+279,Johnny Weissmuller,1984,279.txt
+280,Ansel Adams,1984,280.txt
+281,Ethel Merman,1984,281.txt
+282,Indira Gandhi,1984,282.txt
+283,Ray A Kroc,1984,283.txt
+284,Richard Burton,1984,284.txt
+285,Count Basie,1984,285.txt
+286,E B White,1985,286.txt
+287,Orson Welles,1985,287.txt
+288,Roger Maris,1985,288.txt
+289,James Cagney,1986,289.txt
+290,Georgia O Keeffe,1986,290.txt
+291,Benny Goodman,1986,291.txt
+292,Jorge Luis Borges,1986,292.txt
+293,Bernard Malamud,1986,293.txt
+294,Kate Smith,1986,294.txt
+295,The Challenger,1986,295.txt
+296,Primo Levi,1987,296.txt
+297,Clare Boothe Luce,1987,297.txt
+298,John Huston,1987,298.txt
+299,Rita Hayworth,1987,299.txt
+300,James Baldwin,1987,300.txt
+301,Alf Landon,1987,301.txt
+302,Andres Segovie,1987,302.txt
+303,John Houseman,1988,303.txt
+304,Louis L Amour,1988,304.txt
+305,William B Shockley,1989,305.txt
+306,Lucille Ball,1989,306.txt
+307,Robert Penn Warren,1989,307.txt
+308,Ferdinand Marcos,1989,308.txt
+309,Andrei Sakharov,1989,309.txt
+310,Andrei A Gromyko,1989,310.txt
+311,I F Stone,1989,311.txt
+312,Vladimir Horowitz,1989,312.txt
+313,Hirohito,1989,313.txt
+314,August A Busch Jr,1989,314.txt
+315,Claude Pepper,1989,315.txt
+316,Samuel Beckett,1989,316.txt
+317,Greta Garbo,1990,317.txt
+318,Sammy Davis Jr,1990,318.txt
+319,Leonard Bernstein,1990,319.txt
+320,Erte,1990,320.txt
+321,Ralph David Abernathy,1990,321.txt
+322,Rex Harrison,1990,322.txt
+323,Frank Capra,1991,323.txt
+324,Dr Seuss,1991,324.txt
+325,Miles Davis,1991,325.txt
+326,Martha Graham,1991,326.txt
+327,Leo Durocher,1991,327.txt
+328,Peggy Ashcroft,1991,328.txt
+329,Alex Haley,1992,329.txt
+330,John Cage,1992,330.txt
+331,Menachem Begin,1992,331.txt
+332,Shirley Booth,1992,332.txt
+333,Isaac Asimov,1992,333.txt
+334,William Shawn,1992,334.txt
+335,Marsha P Johnson,1992,335.txt
+336,Thurgood Marshall,1993,336.txt
+337,Federico Fellini,1993,337.txt
+338,Cesar Chavez,1993,338.txt
+339,Carlos Montoya,1993,339.txt
+340,Dizzy Gillespie,1993,340.txt
+341,Arthur Ashe,1993,341.txt
+342,William Golding,1993,342.txt
+343,Albert Sabin,1993,343.txt
+344,Thomas P O Neill Jr,1994,344.txt
+345,Richard Nixon,1994,345.txt
+346,Erik Erikson,1994,346.txt
+347,Linus C Pauling,1994,347.txt
+348,Jessica Tandy,1994,348.txt
+349,Jan Tinbergen,1994,349.txt
+350,Jacqueline Kennedy,1994,350.txt
+351,Jonas Salk,1995,351.txt
+352,Alfred Eisenstaedt,1995,352.txt
+353,Ginger Rogers,1995,353.txt
+354,George Abbott,1995,354.txt
+355,Yitzhak Rabin,1995,355.txt
+356,Carl Sagan,1996,356.txt
+357,Timothy Leary,1996,357.txt
+358,Gene Kelly,1996,358.txt
+359,Allen Ginsberg,1997,359.txt
+360,Deng Xiaoping,1997,360.txt
+361,James Stewart,1997,361.txt
+362,Bob Kane,1998,362.txt
+363,Benjamin Spock,1998,363.txt
+364,Helen Moody,1998,364.txt
+365,Maureen O Sullivan,1998,365.txt
+366,Theodore Schultz,1998,366.txt
+367,Alan B Shepard Jr,1998,367.txt
+368,Galina Ulanova,1998,368.txt
+369,Bella Abzug,1998,369.txt
+370,Fred W Friendly,1998,370.txt
+371,Frank Sinatra,1998,371.txt
+372,Hassan II,1999,372.txt
+373,Iris Murdoch,1999,373.txt
+374,King Hussein,1999,374.txt
+375,Pierre Trudeau,2000,375.txt
+376,Elliot Richardson,2000,376.txt
+377,Charles M Schulz,2000,377.txt
+378,Karen Sparck Jones,2007,378.txt
